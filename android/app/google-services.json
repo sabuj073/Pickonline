@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "463134045599",
+    "project_id": "pickonline-61992",
+    "storage_bucket": "pickonline-61992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463134045599:android:3fbac64e35fa21e92539aa",
+        "android_client_info": {
+          "package_name": "com.pickonline.pk.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463134045599-6t78p40nsblf4peseovk7oqn1hghhmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxD_RzS7kx7VrV8ybTYD8gj0FWFomBhx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463134045599-6t78p40nsblf4peseovk7oqn1hghhmgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463134045599:android:12bf437349944c962539aa",
+        "android_client_info": {
+          "package_name": "com.pickonline.pk.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463134045599-6t78p40nsblf4peseovk7oqn1hghhmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxD_RzS7kx7VrV8ybTYD8gj0FWFomBhx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463134045599-6t78p40nsblf4peseovk7oqn1hghhmgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463134045599:android:930db7db43d433b22539aa",
+        "android_client_info": {
+          "package_name": "com.pickonline.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463134045599-6t78p40nsblf4peseovk7oqn1hghhmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxD_RzS7kx7VrV8ybTYD8gj0FWFomBhx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463134045599-6t78p40nsblf4peseovk7oqn1hghhmgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463134045599:android:06af20153ae88b172539aa",
+        "android_client_info": {
+          "package_name": "com.pickonline.user.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463134045599-6t78p40nsblf4peseovk7oqn1hghhmgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxD_RzS7kx7VrV8ybTYD8gj0FWFomBhx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463134045599-6t78p40nsblf4peseovk7oqn1hghhmgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
